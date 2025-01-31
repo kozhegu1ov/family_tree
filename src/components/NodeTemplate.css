@@ -1,0 +1,17 @@
+.p-organizationchart .p-organizationchart-node-content {
+    border: none;
+    padding: 0;
+}
+.gender-node-content-man, .gender-node-content-woman {
+    border: 1.5px solid;
+    padding: 1.25rem;
+}
+.gender-node-content-man {
+    border-color: var(--blue-500);
+}
+.gender-node-content-woman {
+    border-color: var(--pink-500);
+}
+.text-woman {
+    color: var(--pink-500);
+}
