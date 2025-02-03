@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//kozhegulov.github.io/family_tree/static/css/main.e0c30a42.css",
-    "main.js": "/https//kozhegulov.github.io/family_tree/static/js/main.1c2d5b0d.js",
-    "static/media/InterVariable-Italic.woff2": "/https//kozhegulov.github.io/family_tree/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
-    "static/media/InterVariable.woff2": "/https//kozhegulov.github.io/family_tree/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
-    "index.html": "/https//kozhegulov.github.io/family_tree/index.html",
-    "main.e0c30a42.css.map": "/https//kozhegulov.github.io/family_tree/static/css/main.e0c30a42.css.map",
-    "main.1c2d5b0d.js.map": "/https//kozhegulov.github.io/family_tree/static/js/main.1c2d5b0d.js.map"
+    "main.css": "/https//kozhegu1ov.github.io/family_tree/static/css/main.cc389e34.css",
+    "main.js": "/https//kozhegu1ov.github.io/family_tree/static/js/main.40e456e4.js",
+    "static/media/InterVariable-Italic.woff2": "/https//kozhegu1ov.github.io/family_tree/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/https//kozhegu1ov.github.io/family_tree/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "index.html": "/https//kozhegu1ov.github.io/family_tree/index.html",
+    "main.cc389e34.css.map": "/https//kozhegu1ov.github.io/family_tree/static/css/main.cc389e34.css.map",
+    "main.40e456e4.js.map": "/https//kozhegu1ov.github.io/family_tree/static/js/main.40e456e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0c30a42.css",
-    "static/js/main.1c2d5b0d.js"
+    "static/css/main.cc389e34.css",
+    "static/js/main.40e456e4.js"
   ]
 }
